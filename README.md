@@ -1,5 +1,5 @@
 # 💜 About Me:
-### 🔧 Dev | 🖥️ SysAdmin | 🛡️ CyberSec
-🌐 <b>Website: [sarcandi.com](https://sarcandi.com)
+### 🛠️ DevOps | 🌐 Network Engineer | ⚙️ LLM‑Driven Automation
 
-🔗 TG: [@sarcandi](https://sarcandi.t.me)</b>
+<b>🌐 Website: [sarcandi.com](https://sarcandi.com)</b><br>
+<b>🔗 TG: [@sarcandi](https://sarcandi.t.me)</b>
